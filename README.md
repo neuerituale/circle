@@ -18,11 +18,11 @@ load plugin after jQuery
 ````js
 {
 	color: 'red',                       /* fill color */
-	graduation: 4,                      /* amound of circles */
-	graduationHighlight: 2,             /* hightlight circle, get the css class "circle__highlight" */
+	graduation: 4,                      /* amount of circles */
+	graduationHighlight: 2,             /* highlight circle, get the css class "circle__highlight" */
 	fill: 0,                            /* initial fill */
 	animateDuration: 1000,              /* duration of the animation */
-	animateDelay: 0,                    /* delay of the animatione */
+	animateDelay: 0,                    /* delay of the animation */
 	
 	// callbacks
 	// The animationComplete function not works with duration 0
