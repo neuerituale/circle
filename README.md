@@ -39,7 +39,7 @@ elements
 	.set(5)
 	;
 ````
-# HTML
+## HTML
 get a look in ```test.html```
 ```html
 <!-- set option as data-attribute -->
